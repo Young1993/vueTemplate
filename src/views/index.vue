@@ -7,7 +7,6 @@
         <div class="panel">
            <div class="panel-wrapper flex">
              <div class="panel-pos">
-               
              </div>
               <div class="panel-left">
                 <a href="#/search?type=origin">
